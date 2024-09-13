@@ -1,0 +1,22 @@
+p{
+    text-align: center;
+    color: blueviolet;
+    font-size: 50px;
+    font-weight: bolder;
+}
+#counter{
+    text-align: center;
+    font-size: 75px;
+}
+#btncontainer{
+    text-align: center;
+}
+.btn{
+    padding: 15px 35px 15px 35px;
+    margin: 5px;
+    background-color: rgb(144, 228, 65);
+    border-radius: 5px;
+    border: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
